@@ -1,0 +1,8 @@
+Josue Patoni Velazquez
+
+git branch 
+git checkout 
+git init
+git add
+
+
